@@ -31,7 +31,7 @@ CREATE TABLE user (
 );
 ```
 
-![alt text](img/Database.png)
+![alt text](img/database.png)
 
 #### 2. Membuat Model User
 
